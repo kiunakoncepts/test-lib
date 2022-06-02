@@ -5,6 +5,6 @@ export const ExampleComponent = ({ text }) => {
   return <div className={styles.test}>FooBar {text}</div>
 }
 
-export const Another = () => {
-  return <div>SLIDER</div>
+export const Hello = () => {
+  return <div>Helloworld</div>
 }
